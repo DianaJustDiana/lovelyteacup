@@ -43,12 +43,19 @@ All files located in the `node_modules` directory are externally maintained libr
     The finished product will be a single page website hosted on GitHub pages.
 
     - What metrics can I use to determine that the project is "finished"?
+    When it's finished, the project will include these sections:
+    * About me
+    * My Poshmark listings (if any)
+    * My eBay listings (if any)
+    * My Etsy listings (if any)
+
+    Ideally I'd like a carousel of photos for each section. Not sure what to do when there aren't enough items to fill out a single screen of the carousel.
 
 # Constraints:
 
-    - If at all possible, we would perfer to NOT host our own database.
+    - If at all possible, we would prefer to NOT host our own database.
 
-    - If at all possible, we would perfer to NOT handle sensitive user data.
+    - If at all possible, we would prefer to NOT handle sensitive user data.
 
 # Assumptions:
 
@@ -71,6 +78,10 @@ All files located in the `node_modules` directory are externally maintained libr
 
     	- What it's supposed to do vs. How it does it
 
+    This site will let my customers on Poshmark, eBay, and Etsy see all the item's I'm selling on the other platforms. An About Me section will present me as a responsible seller with quality items and fast shipping.
+
+    All of my listings on Poshmark, eBay, and Etsy have photos and text (title and description) on those platforms. For my site I want to pull the main photo and the title and display in a carousel.
+
 # Features:
 
-    - (What are you looking at me for? This is the part that /you/ fill out!)
+    - TBA
