@@ -53,6 +53,10 @@ npm start
 
 ### Dependencies
 
+```bash
+Not sure if I'll need any
+```
+
 ### License
 
 `lovelyteacup` is licensed under the [MIT License](https://github.com/dianajustdiana/lovelyteacup/blob/master/LICENSE).
